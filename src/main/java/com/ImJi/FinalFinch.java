@@ -2,7 +2,7 @@ package com.ImJi;
 
 import com.birdbrain.Finch;
 
-public class FinchDemo {
+public class FinalFinch {
     public static void main(String[] args) {
         Finch myFinch = new Finch();
 
