@@ -128,4 +128,4 @@ With more time, I would add sensor interaction, use loops to simplify repeated s
 
 Video 
 
-[![Thumbnail for my projet](IMG_6890.jpg)](https://youtu.be/APzp22LxoeQ)
+[![Thumbnail for my projet](IMG_6890.jpg)](https://youtu.be/QsTI7tMVev0)
