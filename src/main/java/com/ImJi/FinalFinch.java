@@ -18,7 +18,7 @@ public class FinalFinch {
         bird.pause(2.4);
         bird.setMotors(0,0); 
         bird.pause(0.5);          
-        bird.setMove("F", 12, 20);
+        bird.setMove("F", 13, 20);
 
         bird.stopAll();
         bird.disconnect();
