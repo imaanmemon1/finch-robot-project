@@ -117,14 +117,18 @@ If you complete your chosen challenge early, consider:
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
 
-Project Description
+## My ReadME
+**Project Description**
+
 The goal of my project was to program the Finch 2.0 robot to perform a creative dance routine using motion, lights, sound, and the Finch API. 
 
-Description of Design Choices
+**Description of Design Choices**
+
 I designed a two part routine: first, a custom path using turns, and forward movement to make a heart; then a vibrant dance sequence with spinning, LED tail color transitions, beak lights, musical notes, and text displayed on the micro:bit. I used specific setMotors() and setTail() values to choreograph timing and effects, and paused between each move to create rhythm.
 
-Challenges
+**Challenges**
+
 With more time, I would add sensor interaction, use loops to simplify repeated steps, and create randomized moves. I’d also sync the Finch to music and use getButton() or isShaking() to make the dance interactive.
 
-Video 
+**Video**
 [![Thumbnail for my projet](IMG_6890.jpg)](https://youtu.be/QsTI7tMVev0)
