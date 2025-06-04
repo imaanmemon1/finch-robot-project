@@ -116,3 +116,6 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
+What is my Project About??
+- The goal was to program the Finch 2.0 robot to perform a fun, creative, and coordinated dance routine using movement, lights, and sound. After completing a  movement pattern at the start, my Finch transitions into a dance that involves spinning, changing LED tail colors, playing musical notes, and displaying text and LED patterns on its screen. I used key APCSA concepts such as object creation, method calls, and control flow to bring the performance to life. If I had more time, I would add sensor-based triggers, loops for repeated moves, and more complex choreography to make the dance even more interactive.
