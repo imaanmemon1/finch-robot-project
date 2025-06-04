@@ -127,7 +127,9 @@ Challenges
 With more time, I would add sensor interaction, use loops to simplify repeated steps, and create randomized moves. I’d also sync the Finch to music and use getButton() or isShaking() to make the dance interactive.
 
 Video 
-! [IMG 6889](https://youtu.be/APzp22LxoeQ)
+
+! [IMG 6889]()
+[![Thumbnail for my projet](IMG_6890.jpg)](https://youtu.be/APzp22LxoeQ)
 
 ![IMG_6890](https://github.com/user-attachments/assets/c0c0f904-af67-4984-b359-d52fe6806b2c)
 
