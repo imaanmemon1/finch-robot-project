@@ -117,7 +117,7 @@ If you complete your chosen challenge early, consider:
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
 
-## My ReadME
+## ReadME (Imaan & Justin)
 **Project Description**
 
 The goal of my project was to program the Finch 2.0 robot to perform a creative dance routine using motion, lights, sound, and the Finch API. 
